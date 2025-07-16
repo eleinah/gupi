@@ -1,6 +1,19 @@
 <div align="center">
 
-# [*gupi*](## "Go User Pacman Interface")
+<pre>
+                              $$\ 
+                              \__|
+ $$$$$$\  $$\   $$\  $$$$$$\  $$\ 
+$$  __$$\ $$ |  $$ |$$  __$$\ $$ |
+$$ /  $$ |$$ |  $$ |$$ /  $$ |$$ |
+$$ |  $$ |$$ |  $$ |$$ |  $$ |$$ |
+\$$$$$$$ |\$$$$$$  |$$$$$$$  |$$ |
+ \____$$ | \______/ $$  ____/ \__|
+$$\   $$ |          $$ |          
+\$$$$$$  |          $$ |          
+ \______/           \__|          
+
+</pre>
 
 #### A modern, interactive TUI for managing Arch Linux & AUR packages, built in Go.
 
@@ -8,7 +21,7 @@
 
 Stay tuned! This is a rewrite and improvement upon [PacLean](https://github.com/eleinah/paclean)
 
-Building this with [Charm tools](https://charm.sh/libs) and Go.
+Building this with [Charm tools](https://charm.sh/libs), [go-alpm](https://github.com/jguer/go-alpm), and custom AUR logic heavily inspired by [yay](https://github.com/jguer/yay)
 
 ---
 
