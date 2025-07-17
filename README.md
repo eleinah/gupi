@@ -21,7 +21,7 @@ $$\   $$ |          $$ |
 
 Stay tuned! This is a rewrite and improvement upon [PacLean](https://github.com/eleinah/paclean)
 
-Building this with [Charm tools](https://charm.sh/libs), [go-alpm](https://github.com/jguer/go-alpm), and custom AUR logic heavily inspired by [yay](https://github.com/jguer/yay)
+Building this with [Charm tools](https://charm.sh/libs), [go-alpm](https://github.com/jguer/go-alpm), and a custom client for the [Aurweb RPC interface](https://wiki.archlinux.org/title/Aurweb_RPC_interface) (inspired by [yay](https://github.com/jguer/yay))
 
 ---
 
